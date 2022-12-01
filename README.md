@@ -1,1 +1,1 @@
-# COVID-19-mortality-rate
+Visualized dynamic evolvement of COVID cases and COVID-related death at state level through spaghetti plots and animated heatmaps, built and selected the best multiple regression model with LASSO and BIC that figured out critical county-level demographic and policy interventions associated with mortality rate in the US
